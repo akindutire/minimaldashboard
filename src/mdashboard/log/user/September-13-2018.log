@@ -1,0 +1,60 @@
+09:36:29 pm ::-->> 1
+09:36:29 pm ::-->> Trace_LifeTime
+09:36:29 pm ::-->> 1
+09:36:29 pm ::-->> Trace_LifeTime
+09:36:29 pm ::-->> 2
+09:36:29 pm ::-->> App_Cert
+09:36:30 pm ::-->> 1
+09:36:30 pm ::-->> error
+09:36:30 pm ::-->> Error Session Index mdashboard__error Not Found
+09:37:52 pm ::-->> 1
+09:37:52 pm ::-->> Trace_LifeTime
+09:37:52 pm ::-->> 1
+09:37:52 pm ::-->> Trace_LifeTime
+09:37:52 pm ::-->> 2
+09:37:52 pm ::-->> Trace_LifeTime
+09:37:52 pm ::-->> mdashboard__Trace_LifeTime Session Saved
+09:38:13 pm ::-->> 1
+09:38:13 pm ::-->> Trace_LifeTime
+09:38:13 pm ::-->> 1
+09:38:13 pm ::-->> Trace_LifeTime
+09:38:13 pm ::-->> 2
+09:38:13 pm ::-->> error
+09:38:13 pm ::-->> Error Session Index mdashboard__error Not Found
+09:39:21 pm ::-->> 1
+09:39:21 pm ::-->> Trace_LifeTime
+09:39:21 pm ::-->> 1
+09:39:21 pm ::-->> Trace_LifeTime
+09:39:21 pm ::-->> 2
+09:39:21 pm ::-->> App_Cert
+09:42:43 pm ::-->> 1
+09:42:43 pm ::-->> Trace_LifeTime
+09:42:43 pm ::-->> 1
+09:42:43 pm ::-->> Trace_LifeTime
+09:42:43 pm ::-->> 2
+09:42:43 pm ::-->> App_Cert
+09:43:05 pm ::-->> 1
+09:43:05 pm ::-->> Trace_LifeTime
+09:43:05 pm ::-->> 1
+09:43:05 pm ::-->> Trace_LifeTime
+09:43:05 pm ::-->> 2
+09:43:05 pm ::-->> App_Cert
+09:47:27 pm ::-->> Error Session Index mdashboard__error Not Found
+09:47:58 pm ::-->> Error Session Index mdashboard__error Not Found
+09:50:02 pm ::-->> Error Session Index mdashboard__error Not Found
+09:52:18 pm ::-->> Error Session Index mdashboard__error Not Found
+09:54:01 pm ::-->> mdashboard__Trace_LifeTime Session Saved
+09:54:01 pm ::-->> Error Session Index mdashboard__error Not Found
+09:57:23 pm ::-->> Error Session Index mdashboard__error Not Found
+10:36:04 pm ::-->> mdashboard__Trace_LifeTime Session Saved
+10:36:04 pm ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+10:37:24 pm ::-->> Connection Established on line 128 of zil\factory\Database::connect
+10:37:24 pm ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+10:37:25 pm ::-->> mdashboard__error Session Saved
+10:39:18 pm ::-->> Connection Established on line 128 of zil\factory\Database::connect
+10:39:18 pm ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+10:39:18 pm ::-->> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'akindutire33@gmail.com' for key 'email'
+10:39:18 pm ::-->> mdashboard__error Session Saved
+10:41:52 pm ::-->> Connection Established on line 128 of zil\factory\Database::connect
+10:41:52 pm ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+10:41:52 pm ::-->> mdashboard__error Session Saved

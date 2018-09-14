@@ -1,0 +1,137 @@
+06:04:07 am ::-->> mdashboard__Trace_LifeTime Session Saved
+06:08:39 am ::-->> mdashboard__App_Cert Session Saved
+06:08:46 am ::-->> Error Session Index mdashboard__error Not Found
+06:09:08 am ::-->> Error Session Index mdashboard__error Not Found
+06:09:30 am ::-->> Error Session Index mdashboard__error Not Found
+06:09:48 am ::-->> Error Session Index mdashboard__error Not Found
+06:16:58 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:16:58 am ::-->> SELECT * FROM user WHERE id <> ?  LIMIT 0,10
+06:18:53 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:18:53 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:21:47 am ::-->> mdashboard__Trace_LifeTime Session Saved
+06:21:47 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:21:47 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:27:15 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:27:15 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:27:52 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:27:52 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:28:38 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:28:38 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:30:05 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:30:05 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:30:34 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:30:34 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:30:44 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:30:44 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:31:07 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:31:07 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:31:32 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:31:32 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:32:10 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:32:10 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:34:11 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:34:11 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:35:44 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:35:44 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:40:55 am ::-->> mdashboard__Trace_LifeTime Session Saved
+06:40:55 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:40:55 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:42:49 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:42:49 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:42:53 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:42:53 am ::-->> DELETE FROM user WHERE email = ?  
+06:43:05 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:05 am ::-->> DELETE FROM user WHERE email = ?  
+06:43:08 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:08 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:43:27 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:27 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:43:32 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:32 am ::-->> DELETE FROM user WHERE email = ?  
+06:43:35 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:35 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:43:46 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:43:46 am ::-->> DELETE FROM user WHERE email = ?  
+06:44:25 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:44:25 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:44:28 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:44:28 am ::-->> DELETE FROM user WHERE id = ?  
+06:44:32 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:44:32 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:49:26 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:49:26 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+06:49:30 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:49:30 am ::-->> SELECT * FROM user WHERE id != ?  
+06:49:30 am ::-->> Error Session Index mdashboard__error Not Found
+06:53:12 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:53:12 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+06:53:12 am ::-->> Error Session Index mdashboard__error Not Found
+06:54:55 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:54:55 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+06:54:55 am ::-->> Error Session Index mdashboard__error Not Found
+06:56:50 am ::-->> mdashboard__Trace_LifeTime Session Saved
+06:56:50 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+06:56:50 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+06:56:50 am ::-->> Error Session Index mdashboard__error Not Found
+07:08:07 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:08:07 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+07:08:07 am ::-->> Error Session Index mdashboard__error Not Found
+07:09:04 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:09:04 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+07:09:04 am ::-->> Error Session Index mdashboard__error Not Found
+07:09:10 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:09:10 am ::-->> UPDATE user SET name = 'hghd ',address = 'hh',phone = '08107926083',aboutme = 'nbshkjs',birthday = '1993-09'  WHERE id = ?  
+07:09:13 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:09:13 am ::-->> SELECT * FROM user WHERE id = ?  LIMIT 0,1
+07:09:13 am ::-->> Error Session Index mdashboard__error Not Found
+07:09:20 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:09:20 am ::-->> SELECT * FROM user WHERE id != ?  LIMIT 0,10
+07:12:05 am ::-->> mdashboard__Trace_LifeTime Session Saved
+07:12:05 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:12:05 am ::-->> SELECT * FROM user WHERE id != ?  
+07:12:22 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:12:22 am ::-->> SELECT * FROM user WHERE id != ?  
+07:12:31 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:12:31 am ::-->> SELECT * FROM user WHERE id != ?  
+07:18:55 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:18:55 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:18:55 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:18:55 am ::-->> SELECT * FROM user WHERE id != ?  
+07:19:04 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:19:04 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:19:04 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:19:04 am ::-->> SELECT * FROM user WHERE id != ?  
+07:19:32 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:19:32 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:19:32 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:19:32 am ::-->> SELECT * FROM user WHERE id != ?  
+07:27:28 am ::-->> mdashboard__Trace_LifeTime Session Saved
+07:38:29 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:38:29 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:38:29 am ::-->> Connection Established on line 128 of zil\factory\Database::connect
+07:38:29 am ::-->> SELECT * FROM user WHERE id != ?  
+07:49:48 am ::-->> mdashboard__Trace_LifeTime Session Saved
+07:49:48 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:49:48 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:49:48 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:49:48 am ::-->> SELECT * FROM user WHERE id != ?  
+07:50:43 am ::-->> Error Session Index mdashboard__error Not Found
+07:51:41 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:51:41 am ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+07:51:41 am ::-->> SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'akindutire33@gmail.com' for key 'email'
+07:51:41 am ::-->> mdashboard__error Session Saved
+07:54:14 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:54:14 am ::-->> INSERT INTO user VALUES(?,?,?,?,?,?,?,?,?)
+07:54:14 am ::-->> mdashboard__error Session Saved
+07:59:50 am ::-->> mdashboard__App_Cert Session Saved
+07:59:50 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:59:50 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+07:59:50 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+07:59:50 am ::-->> SELECT * FROM user WHERE id != ?  
+08:00:41 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+08:00:41 am ::-->> DELETE FROM user WHERE id = ?  
+08:00:43 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+08:00:43 am ::-->> SELECT * FROM user WHERE id != ?  ORDER BY id DESC LIMIT 0,10
+08:00:43 am ::-->> Connection Established on line 80 of zil\factory\Database::connect
+08:00:43 am ::-->> SELECT * FROM user WHERE id != ?  
+08:01:01 am ::-->> Error Session Index mdashboard__error Not Found
