@@ -51,7 +51,7 @@
 
 			$cfg = new cfg;
 			
-			if(Authentication::revoke())
+			if(Session::deleteSession('op'))
 				new Redirect($cfg->getAppInit());
 		
 		}
