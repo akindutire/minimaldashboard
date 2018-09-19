@@ -41,7 +41,8 @@
 					$p = htmlentities(strip_tags($_REQUEST['password']));
 
 					if ( $u == 'master' && $p == 'master' ){
-
+						
+						Session::buildSession( [ ['op', 9090] ] );
 						if(Session::buzzSession('error'))
 							Session::deleteSession('error');
 
