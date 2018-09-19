@@ -19,7 +19,7 @@
 
 			$this->doc_root = $_SERVER['DOCUMENT_ROOT'].'/'.$cfg->getAppPath();
 
-			if(strlen(Session::getSession('App_Cert')) !== 64){
+			if(strlen(Session::getSession('op')) !== 4){
 				new Redirect($cfg->getAppInit());
 			}
 			
